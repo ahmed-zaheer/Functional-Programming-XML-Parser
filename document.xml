@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mo="http://schemas.microsoft.com/office/mac/office/2008/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 wp14">
+   <w:body>
+      <w:p w14:paraId="2CF946E2" w14:textId="5D04A9CD" w:rsidR="00550265" w:rsidRPr="00E87B14" w:rsidRDefault="00E87B14" w:rsidP="00E87B14">
+         <w:pPr>
+            <w:jc w:val="center" />
+            <w:rPr>
+               <w:b />
+            </w:rPr>
+         </w:pPr>
+         <w:r w:rsidRPr="00E87B14">
+            <w:rPr>
+               <w:b />
+            </w:rPr>
+            <w:t>Computing at School:</w:t>
+         </w:r>
+         <w:r w:rsidR="000328E5">
+            <w:rPr>
+               <w:b />
+            </w:rPr>
+            <w:t xml:space="preserve"> EECS</w:t>
+         </w:r>
+         <w:r w:rsidRPr="00E87B14">
+            <w:rPr>
+               <w:b />
+            </w:rPr>
+            <w:t xml:space="preserve"> Initiative Relating to Teacher CPD</w:t>
+         </w:r>
+      </w:p>
+      <w:p w14:paraId="72210B30" w14:textId="77777777" w:rsidR="00E87B14" w:rsidRDefault="00E87B14" w:rsidP="00E87B14">
+         <w:pPr>
+            <w:pStyle w:val="Heading1" />
+         </w:pPr>
+         <w:r>
+            <w:t>Background</w:t>
+         </w:r>
+      </w:p>
+      <w:p w14:paraId="78B72E64" w14:textId="77777777" w:rsidR="00E87B14" w:rsidRPr="00E87B14" w:rsidRDefault="00E87B14" w:rsidP="00E87B14">
+         <w:r>
+            <w:t xml:space="preserve">The poor teaching of school ICT has attracted government (and media) attention and a number of initiatives are underway. </w:t>
+         </w:r>
+         <w:r w:rsidR="00B07DE4">
+            <w:t>A new GCSE ‘Computing’ curriculum has been launched, but many schools</w:t>
+         </w:r>
+         <w:r w:rsidR="0032334A">
+            <w:t xml:space="preserve"> lack the skills to deliver it, so there is a demand for training (CPD) for ICT teachers. If the Computing GCSE is successful, it could transform recruitment to Computer Science at universities. </w:t>
+         </w:r>
+      </w:p>
+      <w:p w14:paraId="267B9935" w14:textId="77777777" w:rsidR="00E87B14" w:rsidRDefault="00E87B14" w:rsidP="00E87B14">
+         <w:pPr>
+            <w:pStyle w:val="Heading1" />
+         </w:pPr>
+         <w:r>
+            <w:t>Summary of Situation</w:t>
+         </w:r>
+      </w:p>
+      <w:p w14:paraId="6EB148DD" w14:textId="55A7AD9B" w:rsidR="00E87B14" w:rsidRDefault="000328E5" w:rsidP="00E87B14">
+         <w:pPr>
+            <w:pStyle w:val="ListParagraph" />
+            <w:numPr>
+               <w:ilvl w:val="0" />
+               <w:numId w:val="1" />
+            </w:numPr>
+         </w:pPr>
+         <w:r>
+            <w:t>CAS is launching a ‘Network of E</w:t>
+         </w:r>
+         <w:r w:rsidR="00E87B14">
+            <w:t>xcellence’</w:t>
+         </w:r>
+         <w:r>
+            <w:t xml:space="preserve"> (</w:t>
+         </w:r>
+         <w:proofErr w:type="spellStart" />
+         <w:r>
+            <w:t>NoE</w:t>
+         </w:r>
+         <w:proofErr w:type="spellEnd" />
+         <w:r>
+            <w:t>)</w:t>
+         </w:r>
+         <w:r w:rsidR="00E87B14">
+            <w:t xml:space="preserve"> in September. There will be an o</w:t>
+         </w:r>
+         <w:r w:rsidR="0032334A">
+            <w:t xml:space="preserve">pportunity for universities to announce their initiatives to support teachers. The initiative has 150K </w:t>
+         </w:r>
+         <w:proofErr w:type="gramStart" />
+         <w:r w:rsidR="0032334A">
+            <w:t>support</w:t>
+         </w:r>
+         <w:proofErr w:type="gramEnd" />
+         <w:r w:rsidR="0032334A">
+            <w:t xml:space="preserve"> from DoE and support from BCS. (Contact</w:t>
+         </w:r>
+         <w:r>
+            <w:t>s:</w:t>
+         </w:r>
+         <w:r w:rsidR="0032334A">
+            <w:t xml:space="preserve"> Simon Humphreys, Tom Crick)</w:t>
+         </w:r>
+      </w:p>
+      <w:p w14:paraId="2245327C" w14:textId="77777777" w:rsidR="0032334A" w:rsidRDefault="00E87B14" w:rsidP="0032334A">
+         <w:pPr>
+            <w:pStyle w:val="ListParagraph" />
+            <w:numPr>
+               <w:ilvl w:val="0" />
+               <w:numId w:val="1" />
+            </w:numPr>
+         </w:pPr>
+         <w:r>
+            <w:t>There are a number of other initiatives</w:t>
+         </w:r>
+         <w:r w:rsidR="0032334A">
+            <w:t>:</w:t>
+         </w:r>
+      </w:p>
+      <w:p w14:paraId="53AE7D9C" w14:textId="77777777" w:rsidR="0032334A" w:rsidRDefault="00E87B14" w:rsidP="0032334A">
+         <w:pPr>
+            <w:pStyle w:val="ListParagraph" />
+            <w:numPr>
+               <w:ilvl w:val="1" />
+               <w:numId w:val="1" />
+            </w:numPr>
+         </w:pPr>
+         <w:r>
+            <w:t>Institute of Education</w:t>
+         </w:r>
+         <w:r w:rsidR="0032334A">
+            <w:t xml:space="preserve"> – London Knowledge Lab, with support from Tribal</w:t>
+         </w:r>
+         <w:r>
+            <w:t>, (</w:t>
+         </w:r>
+         <w:r w:rsidR="0032334A">
+            <w:t xml:space="preserve">contact </w:t>
+         </w:r>
+         <w:r w:rsidR="0032334A" w:rsidRPr="0032334A">
+            <w:t>patricia.charlton@pobox.com</w:t>
+         </w:r>
+         <w:r>
+            <w:t>)</w:t>
+         </w:r>
+         <w:r w:rsidR="0032334A">
+            <w:t xml:space="preserve">. </w:t>
+         </w:r>
+      </w:p>
+      <w:p w14:paraId="6815BD36" w14:textId="77777777" w:rsidR="00E87B14" w:rsidRDefault="0032334A" w:rsidP="0032334A">
+         <w:pPr>
+            <w:pStyle w:val="ListParagraph" />
+            <w:numPr>
+               <w:ilvl w:val="1" />
+               <w:numId w:val="1" />
+            </w:numPr>
+         </w:pPr>
+         <w:r>
+            <w:t xml:space="preserve">Meeting arranged 5 Sept, David </w:t>
+         </w:r>
+         <w:proofErr w:type="spellStart" />
+         <w:r>
+            <w:t>Swinscoe</w:t>
+         </w:r>
+         <w:proofErr w:type="spellEnd" />
+         <w:r>
+            <w:t>, Strategic Director for Science, LSIS STEM Support Service)</w:t>
+         </w:r>
+      </w:p>
+      <w:p w14:paraId="25089DE8" w14:textId="77777777" w:rsidR="00E87B14" w:rsidRDefault="00E87B14" w:rsidP="00E87B14">
+         <w:pPr>
+            <w:pStyle w:val="ListParagraph" />
+            <w:numPr>
+               <w:ilvl w:val="0" />
+               <w:numId w:val="1" />
+            </w:numPr>
+         </w:pPr>
+         <w:r>
+            <w:t xml:space="preserve">QM is co-leading the CAS local group in North-East London, one of three London groups. A series of 4 sessions were run last academic year and lessons learnt about teacher CPD </w:t>
+         </w:r>
+      </w:p>
+      <w:p w14:paraId="569E863A" w14:textId="77777777" w:rsidR="00E87B14" w:rsidRDefault="00E87B14" w:rsidP="00E87B14">
+         <w:pPr>
+            <w:pStyle w:val="ListParagraph" />
+            <w:numPr>
+               <w:ilvl w:val="0" />
+               <w:numId w:val="1" />
+            </w:numPr>
+         </w:pPr>
+         <w:r>
+            <w:t xml:space="preserve">The BCS </w:t>
+         </w:r>
+         <w:r w:rsidR="00E24624">
+            <w:t xml:space="preserve">is planning to secure funding for 100 </w:t>
+         </w:r>
+         <w:r>
+            <w:t>scholarships</w:t>
+         </w:r>
+         <w:r w:rsidR="00E24624">
+            <w:t xml:space="preserve"> of £20K per year for teachers to train e.g. a conversion MSc, such as the programme we already offer.</w:t>
+         </w:r>
+      </w:p>
+      <w:p w14:paraId="1A903AB6" w14:textId="57E8DDF9" w:rsidR="00E87B14" w:rsidRDefault="00F03483" w:rsidP="00E87B14">
+         <w:pPr>
+            <w:pStyle w:val="Heading1" />
+         </w:pPr>
+         <w:r>
+            <w:t>Issues to be Resolved</w:t>
+         </w:r>
+      </w:p>
+      <w:p w14:paraId="2A291137" w14:textId="5EBAD4D2" w:rsidR="00E87B14" w:rsidRDefault="00F03483" w:rsidP="00E87B14">
+         <w:pPr>
+            <w:pStyle w:val="ListParagraph" />
+            <w:numPr>
+               <w:ilvl w:val="0" />
+               <w:numId w:val="2" />
+            </w:numPr>
+         </w:pPr>
+         <w:r>
+            <w:t xml:space="preserve">How </w:t>
+         </w:r>
+         <w:proofErr w:type="gramStart" />
+         <w:r>
+            <w:t>will EECS resource</w:t>
+         </w:r>
+         <w:proofErr w:type="gramEnd" />
+         <w:r>
+            <w:t xml:space="preserve"> making contacts with schools?</w:t>
+         </w:r>
+      </w:p>
+      <w:p w14:paraId="3E2179BE" w14:textId="731E6F10" w:rsidR="00F03483" w:rsidRDefault="00F03483" w:rsidP="00E87B14">
+         <w:pPr>
+            <w:pStyle w:val="ListParagraph" />
+            <w:numPr>
+               <w:ilvl w:val="0" />
+               <w:numId w:val="2" />
+            </w:numPr>
+         </w:pPr>
+         <w:r>
+            <w:t>What partners should we seek to involve in any CPD (</w:t>
+         </w:r>
+         <w:proofErr w:type="spellStart" />
+         <w:r>
+            <w:t>esp</w:t>
+         </w:r>
+         <w:proofErr w:type="spellEnd" />
+         <w:r>
+            <w:t xml:space="preserve">, for support on pedagogy)? </w:t>
+         </w:r>
+      </w:p>
+      <w:p w14:paraId="40836843" w14:textId="01036759" w:rsidR="00F03483" w:rsidRDefault="00F03483" w:rsidP="00F03483">
+         <w:pPr>
+            <w:pStyle w:val="ListParagraph" />
+            <w:numPr>
+               <w:ilvl w:val="1" />
+               <w:numId w:val="2" />
+            </w:numPr>
+         </w:pPr>
+         <w:r>
+            <w:t>Supportive and expert local teachers, with experience of GCSE Computing</w:t>
+         </w:r>
+      </w:p>
+      <w:p w14:paraId="49E21318" w14:textId="612F1303" w:rsidR="00F03483" w:rsidRDefault="00F03483" w:rsidP="00F03483">
+         <w:pPr>
+            <w:pStyle w:val="ListParagraph" />
+            <w:numPr>
+               <w:ilvl w:val="1" />
+               <w:numId w:val="2" />
+            </w:numPr>
+         </w:pPr>
+         <w:r>
+            <w:t>Other Computer Science HE who are already active in this area (Anglia Ruskin, Goldsmiths)</w:t>
+         </w:r>
+      </w:p>
+      <w:p w14:paraId="65F94B01" w14:textId="27BF5B4D" w:rsidR="00F03483" w:rsidRDefault="00F03483" w:rsidP="00F03483">
+         <w:pPr>
+            <w:pStyle w:val="ListParagraph" />
+            <w:numPr>
+               <w:ilvl w:val="1" />
+               <w:numId w:val="2" />
+            </w:numPr>
+         </w:pPr>
+         <w:r>
+            <w:t>Institution of Education</w:t>
+         </w:r>
+      </w:p>
+      <w:p w14:paraId="04862E32" w14:textId="655A0D7C" w:rsidR="00E87B14" w:rsidRDefault="00F03483" w:rsidP="00E87B14">
+         <w:pPr>
+            <w:pStyle w:val="ListParagraph" />
+            <w:numPr>
+               <w:ilvl w:val="0" />
+               <w:numId w:val="2" />
+            </w:numPr>
+         </w:pPr>
+         <w:r>
+            <w:t xml:space="preserve">How should the CPD programme be certificated? – </w:t>
+         </w:r>
+         <w:proofErr w:type="gramStart" />
+         <w:r>
+            <w:t>by</w:t>
+         </w:r>
+         <w:proofErr w:type="gramEnd" />
+         <w:r>
+            <w:t xml:space="preserve"> EECS only or more formally by the college?</w:t>
+         </w:r>
+      </w:p>
+      <w:p w14:paraId="5FACB4C6" w14:textId="77777777" w:rsidR="00C76861" w:rsidRDefault="00C76861" w:rsidP="00C76861">
+         <w:pPr>
+            <w:pStyle w:val="Heading1" />
+         </w:pPr>
+         <w:bookmarkStart w:id="0" w:name="_GoBack" />
+         <w:bookmarkEnd w:id="0" />
+         <w:r>
+            <w:t>CPD Proposal Outline</w:t>
+         </w:r>
+      </w:p>
+      <w:p w14:paraId="7FA00676" w14:textId="77777777" w:rsidR="00C76861" w:rsidRDefault="00E24624" w:rsidP="00C76861">
+         <w:r>
+            <w:t xml:space="preserve">Anglia-Ruskin in Cambridge has successfully run a </w:t>
+         </w:r>
+         <w:proofErr w:type="gramStart" />
+         <w:r>
+            <w:t>10 week</w:t>
+         </w:r>
+         <w:proofErr w:type="gramEnd" />
+         <w:r>
+            <w:t xml:space="preserve"> evening class CPD. This format looks possible. Initiatives (e.g. at Kent) are underway to create a standard curriculum, probably based on the CAS body of knowledge. Such a programme could be run at QM for local schools.</w:t>
+         </w:r>
+      </w:p>
+      <w:p w14:paraId="10D78EA3" w14:textId="06B1FB5E" w:rsidR="000328E5" w:rsidRDefault="000328E5" w:rsidP="00050902">
+         <w:pPr>
+            <w:pStyle w:val="ListParagraph" />
+            <w:numPr>
+               <w:ilvl w:val="0" />
+               <w:numId w:val="3" />
+            </w:numPr>
+            <w:ind w:left="425" w:hanging="425" />
+            <w:contextualSpacing w:val="0" />
+         </w:pPr>
+         <w:r w:rsidRPr="00050902">
+            <w:rPr>
+               <w:i />
+            </w:rPr>
+            <w:t>Relationship with schools</w:t>
+         </w:r>
+         <w:r>
+            <w:t>. We should develop a relationship with schools, rather than just teachers: a) improve commitment of teachers to CPD b) opportunity to use the relationship to invite school pupils to QM, benefiting recruitment in the shorter term.</w:t>
+         </w:r>
+      </w:p>
+      <w:p w14:paraId="116BE0A8" w14:textId="3887BD49" w:rsidR="00050902" w:rsidRDefault="00E24624" w:rsidP="00050902">
+         <w:pPr>
+            <w:pStyle w:val="ListParagraph" />
+            <w:numPr>
+               <w:ilvl w:val="0" />
+               <w:numId w:val="3" />
+            </w:numPr>
+            <w:ind w:left="425" w:hanging="425" />
+            <w:contextualSpacing w:val="0" />
+         </w:pPr>
+         <w:r w:rsidRPr="00050902">
+            <w:rPr>
+               <w:i />
+            </w:rPr>
+            <w:t>Focus on GCSE</w:t>
+         </w:r>
+         <w:r w:rsidR="00050902" w:rsidRPr="00050902">
+            <w:t xml:space="preserve">. </w:t>
+         </w:r>
+         <w:r w:rsidR="000328E5">
+            <w:t>Teaching the GCSE in</w:t>
+         </w:r>
+         <w:r w:rsidR="00050902">
+            <w:t xml:space="preserve"> Computing is the critical step for schools. This includes a substantial programming element; the CAS Body of Knowledge corresponds well.</w:t>
+         </w:r>
+      </w:p>
+      <w:p w14:paraId="584CF5BF" w14:textId="5E31A7AE" w:rsidR="00E24624" w:rsidRDefault="00E24624" w:rsidP="00050902">
+         <w:pPr>
+            <w:pStyle w:val="ListParagraph" />
+            <w:numPr>
+               <w:ilvl w:val="0" />
+               <w:numId w:val="3" />
+            </w:numPr>
+            <w:ind w:left="425" w:hanging="425" />
+            <w:contextualSpacing w:val="0" />
+         </w:pPr>
+         <w:r w:rsidRPr="00050902">
+            <w:rPr>
+               <w:i />
+            </w:rPr>
+            <w:t>Element of pedagogy</w:t>
+         </w:r>
+         <w:r w:rsidR="00050902">
+            <w:t xml:space="preserve">. CPD needs to include an element of pedagogy not merely technical computer science. We could call on experienced teachers or collaborate more formally with </w:t>
+         </w:r>
+         <w:proofErr w:type="spellStart" />
+         <w:r w:rsidR="00050902">
+            <w:t>IoE</w:t>
+         </w:r>
+         <w:proofErr w:type="spellEnd" />
+         <w:r w:rsidR="00050902">
+            <w:t xml:space="preserve"> (for example).</w:t>
+         </w:r>
+      </w:p>
+      <w:p w14:paraId="79ACA6E6" w14:textId="54F44A5E" w:rsidR="000328E5" w:rsidRPr="00C76861" w:rsidRDefault="00E24624" w:rsidP="000328E5">
+         <w:pPr>
+            <w:pStyle w:val="ListParagraph" />
+            <w:numPr>
+               <w:ilvl w:val="0" />
+               <w:numId w:val="3" />
+            </w:numPr>
+            <w:ind w:left="425" w:hanging="425" />
+            <w:contextualSpacing w:val="0" />
+         </w:pPr>
+         <w:r w:rsidRPr="00050902">
+            <w:rPr>
+               <w:i />
+            </w:rPr>
+            <w:lastRenderedPageBreak />
+            <w:t>Delivery to include DL</w:t>
+         </w:r>
+         <w:r w:rsidR="00050902">
+            <w:t xml:space="preserve">. Face to face delivery might be 2 hours / week at most. We need to facilitate </w:t>
+         </w:r>
+         <w:proofErr w:type="gramStart" />
+         <w:r w:rsidR="00050902">
+            <w:t>self study</w:t>
+         </w:r>
+         <w:proofErr w:type="gramEnd" />
+         <w:r w:rsidR="00050902">
+            <w:t xml:space="preserve"> as part of the CPD and DL provides a good way to do this.</w:t>
+         </w:r>
+      </w:p>
+      <w:sectPr w:rsidR="000328E5" w:rsidRPr="00C76861" w:rsidSect="000328E5">
+         <w:pgSz w:w="11901" w:h="16817" />
+         <w:pgMar w:top="851" w:right="1304" w:bottom="1304" w:left="1304" w:header="284" w:footer="567" w:gutter="0" />
+         <w:cols w:space="708" />
+      </w:sectPr>
+   </w:body>
+</w:document>
